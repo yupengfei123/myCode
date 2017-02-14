@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\CreateFile\CreateFile\bin\Debug\CreateFile.exe.config
+C:\Users\Administrator\Desktop\CreateFile\CreateFile\bin\Debug\CreateFile.exe
+C:\Users\Administrator\Desktop\CreateFile\CreateFile\bin\Debug\CreateFile.pdb
+C:\Users\Administrator\Desktop\CreateFile\CreateFile\obj\Debug\CreateFile.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CreateFile\CreateFile\obj\Debug\CreateFile.exe
+C:\Users\Administrator\Desktop\CreateFile\CreateFile\obj\Debug\CreateFile.pdb
