@@ -1,0 +1,10 @@
+E:\C#应用\FaroToLas\FaroToLas\bin\x64\Debug\FaroToLas.exe.config
+E:\C#应用\FaroToLas\FaroToLas\bin\x64\Debug\FaroToLas.exe
+E:\C#应用\FaroToLas\FaroToLas\bin\x64\Debug\FaroToLas.pdb
+E:\C#应用\FaroToLas\FaroToLas\bin\x64\Debug\Interop.IQOPENLib.dll
+E:\C#应用\FaroToLas\FaroToLas\obj\x64\Debug\FaroToLas.csprojResolveAssemblyReference.cache
+E:\C#应用\FaroToLas\FaroToLas\obj\x64\Debug\FaroToLas.Form1.resources
+E:\C#应用\FaroToLas\FaroToLas\obj\x64\Debug\FaroToLas.Properties.Resources.resources
+E:\C#应用\FaroToLas\FaroToLas\obj\x64\Debug\FaroToLas.csproj.GenerateResource.Cache
+E:\C#应用\FaroToLas\FaroToLas\obj\x64\Debug\FaroToLas.exe
+E:\C#应用\FaroToLas\FaroToLas\obj\x64\Debug\FaroToLas.pdb
