@@ -1,0 +1,6 @@
+E:\C#应用\ReadLas\ReadLas\bin\Debug\ReadLas.exe.config
+E:\C#应用\ReadLas\ReadLas\bin\Debug\ReadLas.exe
+E:\C#应用\ReadLas\ReadLas\bin\Debug\ReadLas.pdb
+E:\C#应用\ReadLas\ReadLas\obj\Debug\ReadLas.csprojResolveAssemblyReference.cache
+E:\C#应用\ReadLas\ReadLas\obj\Debug\ReadLas.exe
+E:\C#应用\ReadLas\ReadLas\obj\Debug\ReadLas.pdb
