@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\bin\Debug\轨道检测车1.1.exe.config
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\bin\Debug\轨道检测车1.1.exe
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\bin\Debug\轨道检测车1.1.pdb
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\obj\Debug\轨道检测车1.1.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\obj\Debug\轨道检测车1._1.Form1.resources
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\obj\Debug\轨道检测车1._1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\obj\Debug\轨道检测车1.1.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\obj\Debug\轨道检测车1.1.exe
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\obj\Debug\轨道检测车1.1.pdb
+C:\Users\Administrator\Desktop\项目\软件\轨道检测车1.1\轨道检测车1.1\obj\Debug\轨道检测车1._1.ParameterSet.resources
